@@ -3,4 +3,4 @@ function contaPalavras(frase) {
     let words = arr.length;
     console.log(words)
 }
-contaPalavras("O lisboa é fiotao do fabioo")
+contaPalavras("Sou fiot do lisboa")

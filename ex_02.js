@@ -6,4 +6,5 @@ function inverterArray(arr) {
     console.log(inverso);
 }
 
+
 inverterArray([1, 2, 3, 4, 5, 6]); 

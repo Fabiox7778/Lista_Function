@@ -7,7 +7,7 @@ function ehPalíndromo(palavra) {
         }
     }
 
-    return true
+    return true;
 }
 
-console.log(ehPalíndromo("ana"))
+console.log(ehPalíndromo("ana"));
